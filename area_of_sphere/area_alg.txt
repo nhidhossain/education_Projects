@@ -1,0 +1,17 @@
+(1) Input the radius: Start by obtaining the radius of the sphere (denoted as 𝑟 r).
+
+(2) Understand the formula: The surface area 
+A of a sphere is given by the formula:
+
+𝐴 = 4πr^2
+ 
+where, 
+    π (pi) is approximately 3.14159.
+
+(3) Calculate the square of the radius: Compute r**2 (radius multiplied by itself).
+
+(4) Multiply by 4: Multiply the squared radius by 4.
+
+(5) Multiply by π: Finally, multiply the result by π to get the surface area.
+
+(6) Output the result: The resulting value is the surface area of the sphere.
